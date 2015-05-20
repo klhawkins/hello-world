@@ -8,3 +8,5 @@ Black.
 And eat avocados.
 Green.
 Not at the same time, though.
+
+<b>I want this line of text to be bold.</b>
